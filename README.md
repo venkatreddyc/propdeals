@@ -1,16 +1,17 @@
 # Property Deals System
+
 Property Deals Management System
 
 [![Dependency Status](https://david-dm.org/venkatreddyc/propdeals.svg?theme=shields.io)](https://david-dm.org/venkatreddyc/propdeals)
 [![devDependency Status](https://david-dm.org/venkatreddyc/propdeals/dev-status.svg?theme=shields.io)](https://david-dm.org/venkatreddyc/propdeals#info=devDependencies)
 [![Build Status](https://travis-ci.org/venkatreddyc/propdeals.svg?branch=master)](https://travis-ci.org/venkatreddyc/propdeals)
 [![NPM version](https://img.shields.io/npm/v/jshint.svg?style=flat)](https://www.npmjs.com/package/jshint)
-[![Dependency Status](https://img.shields.io/david/venkatreddyc/propdeals.svg?style=flat)](https://david-dm.org/venkatreddyc/propdeals)
-[![devDependency Status](https://img.shields.io/david/dev/venkatreddyc/propdeals.svg?style=flat)](https://david-dm.org/venkatreddyc/propdeals#info=devDependencies)
 [![Coverage Status](https://img.shields.io/coveralls/venkatreddyc/propdeals.svg?style=flat)](https://coveralls.io/r/venkatreddyc/propdeals?branch=master)
 
 <a href="https://codeclimate.com/github/venkatreddyc/propdeals/coverage"><img src="https://codeclimate.com/github/venkatreddyc/propdeals/badges/coverage.svg" /></a>
+
 <a href="https://codeclimate.com/github/venkatreddyc/propdeals"><img src="https://codeclimate.com/github/venkatreddyc/propdeals/badges/gpa.svg" /></a>
+
 <a href="https://codeclimate.com/github/venkatreddyc/propdeals"><img src="https://codeclimate.com/github/venkatreddyc/propdeals/badges/issue_count.svg" /></a>
 
 
