@@ -7,13 +7,9 @@ Property Deals Management System
 [![Build Status](https://travis-ci.org/venkatreddyc/propdeals.svg?branch=master)](https://travis-ci.org/venkatreddyc/propdeals)
 [![NPM version](https://img.shields.io/npm/v/jshint.svg?style=flat)](https://www.npmjs.com/package/jshint)
 [![Coverage Status](https://img.shields.io/coveralls/venkatreddyc/propdeals.svg?style=flat)](https://coveralls.io/r/venkatreddyc/propdeals?branch=master)
-
 <a href="https://codeclimate.com/github/venkatreddyc/propdeals/coverage"><img src="https://codeclimate.com/github/venkatreddyc/propdeals/badges/coverage.svg" /></a>
-
 <a href="https://codeclimate.com/github/venkatreddyc/propdeals"><img src="https://codeclimate.com/github/venkatreddyc/propdeals/badges/gpa.svg" /></a>
-
 <a href="https://codeclimate.com/github/venkatreddyc/propdeals"><img src="https://codeclimate.com/github/venkatreddyc/propdeals/badges/issue_count.svg" /></a>
-
 
 
 ## Technology
