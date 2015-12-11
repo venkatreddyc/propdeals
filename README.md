@@ -66,7 +66,7 @@ Run these commands on mongo via the terminal. __Obviously you should use your
 email address.__
 
 ```js
-use drywall; // or your mongo db name if different
+use propdeals; // or your mongo db name if different
 ```
 
 ```js
@@ -144,7 +144,7 @@ and relevant version details such as:
 ```bash
 $ npm version
 
-# { drywall: '0.0.0',
+# { propdeals: '0.0.1',
 #   npm: '2.5.1',
 #   http_parser: '2.3',
 #   modules: '14',
@@ -166,5 +166,3 @@ first.
 ## License
 
 MIT
-
-
