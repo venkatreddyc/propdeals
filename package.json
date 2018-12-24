@@ -21,7 +21,7 @@
     "express-session": "^1.x.x",
     "helmet": "^0.15.0",
     "jade": "^1.x.x",
-    "method-override": "^2.x.x",
+    "method-override": "^3.x.x",
     "mongoose": "^4.x.x",
     "morgan": "^1.x.x",
     "passport": "^0.3.2",
