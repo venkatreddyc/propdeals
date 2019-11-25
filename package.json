@@ -38,7 +38,7 @@
   
   "devDependencies": {
     "bootstrap": "^3.x.x",
-    "david": "^7.0.0",
+    "david": "^11.1.0",
     "font-awesome": "^4.x.x",
     "grunt": "^0.4.x",
     "grunt-cli": "^0.1.13",
