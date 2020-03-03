@@ -6,11 +6,10 @@
     "start": "grunt",
     "update": "venkat update"
   },
-  
   "dependencies": {
     "async": "^1.5.0",
     "backbone": "^1.x.x",
-    "bcrypt": "^0.8.x",
+    "bcrypt": "^4.0.1",
     "body-parser": "^1.x.x",
     "compression": "^1.x.x",
     "connect-mongo": "^0.8.x",
@@ -35,7 +34,6 @@
     "serve-static": "^1.9.x",
     "underscore": "^1.x.x"
   },
-  
   "devDependencies": {
     "bootstrap": "^3.x.x",
     "david": "^7.0.0",
