@@ -37,7 +37,7 @@
   },
   
   "devDependencies": {
-    "bootstrap": "^3.x.x",
+    "bootstrap": "^5.x.x",
     "david": "^7.0.0",
     "font-awesome": "^4.x.x",
     "grunt": "^0.4.x",
